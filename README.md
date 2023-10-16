@@ -1,2 +1,3 @@
-# curriculum-ux
-Repo temporal para la nueva currícula de UX
+# 💛 UX al estilo Laboratoria
+
+Estamos trabajando en esta sección
