@@ -8,4 +8,7 @@
 * [🚀 Proyectos del Bootcamp UX](proyectos-del-bootcamp-ux/README.md)
   * [WIP](proyectos-del-bootcamp-ux/wip.md)
 * [🧠 Contenido técnico del Bootcamp UX](contenido-tecnico-del-bootcamp-ux/README.md)
-  * [WIP](contenido-tecnico-del-bootcamp-ux/wip.md)
+  * [🚀 Proceso de diseño](contenido-tecnico-del-bootcamp-ux/proceso-de-diseno/README.md)
+    * [💎 Doble diamante](contenido-tecnico-del-bootcamp-ux/proceso-de-diseno/doble-diamante.md)
+  * [🧰 Toolkit: Herramientas y técnicas](contenido-tecnico-del-bootcamp-ux/toolkit-herramientas-y-tecnicas.md)
+  * [📚 Biblioteca de recursos](contenido-tecnico-del-bootcamp-ux/biblioteca-de-recursos.md)
