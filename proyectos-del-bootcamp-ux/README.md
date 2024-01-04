@@ -1,2 +1,0 @@
-# 🚀 Proyectos del Bootcamp UX
-
